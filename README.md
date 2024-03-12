@@ -4,7 +4,7 @@ Semestr letni 2023/2024
 Materiały z zajęć *Statystyka Matematyczna* prowadzonych na Wydziale Matematyki i Nauk Informacyjnych Politechniki Warszawskiej.
 
 ## Terminy i tematy zajęć
-| # | DATA | LABORATORIUM 14.15 | LABORATORIUM 18.15 |
+| # | DATA | LABORATORIUM MAD | LABORATORIUM MAT |
 |------------|------------|------------|------------|
 | 1 | 10.04 | | |
 | 2 | 17.04 | | |
