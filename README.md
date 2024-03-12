@@ -1,5 +1,6 @@
 # Statystyka Matematyczna 
-Semestr letni 2023/2024
+Semestr letni 2023/2024 
+
 Materiały z zajęć *Statystyka Matematyczna* prowadzonych na Wydziale Matematyki i Nauk Informacyjnych Politechniki Warszawskiej.
 
 ## Terminy i tematy zajęć
