@@ -6,7 +6,7 @@ Materiały z zajęć *Statystyka Matematyczna* prowadzonych na Wydziale Matematy
 ## Terminy i tematy zajęć
 | # | DATA | LABORATORIUM MAD | LABORATORIUM MAT |
 |------------|------------|------------|------------|
-| 1 | 10.04 | Wybrane rozkłady prawdopodobieństwa | Wybrane rozkłady prawdopodobieństwa |
+| 1 | 10.04 | [Wybrane rozkłady prawdopodobieństwa](https://github.com/antonichudy/MathematicalStatistics_2024L/tree/main/MAD) | Wybrane rozkłady prawdopodobieństwa |
 | 2 | 17.04 | | |
 | 3 | 24.04 | | |
 | 4 | 08.05 | | |
