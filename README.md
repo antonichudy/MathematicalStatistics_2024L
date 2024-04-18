@@ -6,9 +6,9 @@ Materiały z zajęć *Statystyka Matematyczna* prowadzonych na Wydziale Matematy
 ## Terminy i tematy zajęć
 | # | DATA | LABORATORIUM MAD | LABORATORIUM MAT |
 |------------|------------|------------|------------|
-| 1 | 10.04 | [Wybrane rozkłady prawdopodobieństwa](https://github.com/antonichudy/MathematicalStatistics_2024L/tree/main/MAD) | [Wybrane rozkłady prawdopodobieństwa](https://github.com/antonichudy/MathematicalStatistics_2024L/tree/main/MAT) |
-| 2 | 17.04 | | |
-| 3 | 24.04 | | |
+| 1 | 10.04 | [Wybrane rozkłady prawdopodobieństwa](https://github.com/antonichudy/MathematicalStatistics_2024L/tree/main/MAD/Lab1) | [Wybrane rozkłady prawdopodobieństwa](https://github.com/antonichudy/MathematicalStatistics_2024L/tree/main/MAT/Lab1) |
+| 2 | 17.04 | [Statystyka opisowa](https://github.com/antonichudy/MathematicalStatistics_2024L/tree/main/MAD/Lab2) | [Statystyka opisowa](https://github.com/antonichudy/MathematicalStatistics_2024L/tree/main/MAT/Lab2) |
+| 3 | 24.04 | [Statystyka opisowa 2](https://github.com/antonichudy/MathematicalStatistics_2024L/tree/main/MAD/Lab3) | [Statystyka opisowa 2](https://github.com/antonichudy/MathematicalStatistics_2024L/tree/main/MAT/Lab3) |
 | 4 | 08.05 | | |
 | 5 | 22.05 | | |
 | 6 | 29.05 | | |
